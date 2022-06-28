@@ -8,6 +8,7 @@ num = len(seq)
 ## Set of clauses [## MANUAL INPUT REQUIRED ##]
 ## FORMAT: ("SYMBOL", NEGATION?("N":YES; 0:NO))
 ##  Sample: ("P", "N") -> ¬P
+##          ("Q", 0) -> Q
 S = [[("P", "N"), ("Q", "N"), ("R", "N"), ("W", "N")],
      [("P", "N"), ("Q", "N"), ("R", 0), ("W", 0)],
      [("P", "N"), ("Q", "N"), ("R", "N"), ("W", 0)],
