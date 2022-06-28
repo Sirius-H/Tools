@@ -1,4 +1,3 @@
-##Copyrights belongs to Sirius Hou
 ## DPP Algorithm
 
 
